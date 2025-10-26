@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-<!--
+<!--[![An image of @codezmanoj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/codezmanoj)](https://holopin.io/@codezmanoj)
+
 **CodeZManoj/codezmanoj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
