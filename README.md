@@ -1,4 +1,4 @@
-## Hi there 👋
+
 [![An image of @codezmanoj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/codezmanoj)](https://holopin.io/@codezmanoj)
 
 
